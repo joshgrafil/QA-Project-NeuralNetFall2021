@@ -10,8 +10,10 @@ https://intersog.com/blog/the-basics-of-qa-systems-from-a-single-function-to-a-p
 
 https://towardsdatascience.com/how-to-create-your-own-question-answering-system-easily-with-python-2ef8abc8eb5
 
-Additionally, the following source will be used for the theory behind building a QA system:
+Additionally, the following source will be used for the theory behind implementing a QA system:
 
 https://bibliotecadigital.ipb.pt/bitstream/10198/14899/5/artigoWAPL2017Marcos.pdf
+
+https://www.datacamp.com/community/tutorials/fuzzy-string-python
 
 A portion of the dataset provided by https://www.kaggle.com/tunguz/200000-jeopardy-questions will be used for building a database for subject matter and answers.
